@@ -1,0 +1,41 @@
+<DOCTYPE html>
+<html lang="pt-br0">
+<head>
+	<meta charset="utf-8">
+	<title>aula</title>
+</head>
+<body>
+	 
+	<form action="processa.php" method="post"></form>
+	<br>
+	<label>texto</label>
+	<br>
+	<input type="text" name="texto1" placeholder=" ~(^ u ^)~">
+	<br>
+	<label>senha</label>
+	<br>
+	<input type="password" name="ola">
+	<br>
+	<label> checkbox </label>
+	<br>
+	<input type="checkbox" name="prova" value="1">valor 1<br>
+	<input type="checkbox" name="prova" value="2">valor 2<br>
+	<input type="checkbox" name="prova" value="3">valor 3<br>
+	<label>select</label>
+	<br>
+		<select name="seleçao">
+		<option value= "1">opçao 1</option>
+		<option value= "2">opçao 2</option>
+		<option value= "3">opçao 3</option>
+	</select>
+	<br>
+	<label> radio </label>
+	<br>
+	<input type="radio" name="1">valor 1 	
+	<input type="radio" name="2">valor 1 
+	<input type="radio" name="3">valor 1 	
+	<input type="radio" name="4">valor 1 
+<br>
+
+</body>
+</html>

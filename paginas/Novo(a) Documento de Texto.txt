@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+<meta charset="UTF-8">
+<title> barberia estacio</title>
+<link rel="stylesheet" href="style.css">
+<style> 
+
+</style>
+</head>
+<body>
+    
+
+<h1> sobre a barberia ESTACIO </h1>
+<p> localizada no coraçao de lugar de alguma parte dentro da floresta dos gnomos </p>
+
+<p> nossa missão e <strong>dominhar o mundo de greyskull</strong></p>
+<p style="font-size: 31px; text-align: center;font-family: cursive;text "> oferecemos alcol armas e vivenda asequivel para todos</p>
+</body>
+</html>
